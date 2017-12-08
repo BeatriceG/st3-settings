@@ -5,13 +5,29 @@
 	],
 	"installed_packages":
 	[
+		"1337 Color Scheme",
 		"A File Icon",
+		"Bootstrap 3 Autocomplete",
 		"Boxy Theme",
 		"Boxy Theme Addon - Font Face",
+		"BracketHighlighter",
+		"Color Highlighter",
 		"Color Scheme - Pastels UI",
 		"Emmet",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
 		"HTMLBeautify",
+		"JavaScript Completions",
+		"Language - French - Français",
 		"Material Theme",
-		"Package Control"
+		"One Dark Material - Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"Seti_UI",
+		"Seti_UX",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Theme - Spacegray"
 	]
 }
